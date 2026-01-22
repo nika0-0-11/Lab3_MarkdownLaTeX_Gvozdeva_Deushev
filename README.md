@@ -46,6 +46,7 @@
         - latexCommitLab3_Gvozdeva_Deushev.png
         - linksCommitLab3_Gvozdeva_Deushev.png
         - listsCommitLab3_Gvozdeva_Deushev.png
+        - readmeFinalPushLab3_Gvozdeva_Deushev
         - separatorsCommitLab3_Gvozdeva_Deushev.png
         - tablesCommitLab3_Gvozdeva_Deushev.png
     
