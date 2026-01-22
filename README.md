@@ -43,7 +43,7 @@
         - formattingCommitLab3_Gvozdeva_Deushev.png
         - gitPushLab3_Gvozdeva_Deushev.png
         - headersCommitLab3_Gvozdeva_Deushev.png
-        - latexCommitLab3_Gvozdeva_Deushev.png
+        - latexCommitLab3_Gvozdeva_Deushev.pngФ
         - linksCommitLab3_Gvozdeva_Deushev.png
         - listsCommitLab3_Gvozdeva_Deushev.png
         - readmeFinalPushLab3_Gvozdeva_Deushev
