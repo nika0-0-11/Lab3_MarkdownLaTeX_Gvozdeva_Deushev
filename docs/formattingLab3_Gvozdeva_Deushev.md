@@ -30,12 +30,12 @@ Markdown в комментариях к коду.
 ## Пример структуры кода с комментариями в стиле Markdown
 
 ```csharp
-Console.Write("Введите первое число: ")
-double number1 = Convert.ToDouble(Console.ReadLine())
+Console.Write("Введите первое число: ");
+double number1 = Convert.ToDouble(Console.ReadLine());
 
-Console.Write("Введите второе число: ")
-double number1 = Convert.ToDouble(Console.ReadLine())
+Console.Write("Введите второе число: ");
+double number1 = Convert.ToDouble(Console.ReadLine();)
 
-double sum = number1 + number2
-Console.WriteLine($"**Результат операций: {sum}**")
+double sum = number1 + number2;
+Console.WriteLine($"**Результат операций: {sum}**");
 ```
