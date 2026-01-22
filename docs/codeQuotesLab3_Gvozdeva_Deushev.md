@@ -24,20 +24,20 @@ print("Hello, Markdown!")
 
 **2. Блок кода на языке C++:**
 
-    ```cpp
-    #include <iostream>
+```cpp
+#include <iostream>
 
-    int main() {
-        std::cout << "Hello friend" << std::endl;
-        return 0;
-    }
-    ```
+int main() {
+    std::cout << "Hello friend" << std::endl;
+    return 0;
+}
+```
 
 **3. Блок кода без указания языка:**
 
-    ```
-    print("Hello friend")
-    ```
+```
+print("Hello friend")
+```
 
 **4. Цитаты:**
 
